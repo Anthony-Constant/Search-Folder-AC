@@ -10,11 +10,16 @@ A simple PowerShell script to search for a specified folder. The script will req
 <h2> HOW TO USE IT </h2>
 Enter the specified folder path. 
 
-
 Enter the specified folder name.
-
 
 The PowerShell script will begin searching for the specfied folder. (searching through entire directories + subdirectories.)
 
+<img src="https://i.postimg.cc/NMP3w88q/ps1.png">
 
 Check the results. 
+
+
+
+<img src="https://i.postimg.cc/PxqgcVwQ/ps2.png">
+
+
