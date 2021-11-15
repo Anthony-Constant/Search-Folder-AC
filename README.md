@@ -1,5 +1,5 @@
-<h1> Search for specified folders and subfolders </h1>
-<h3> PowerShell Script </h3>
+<h1>  PowerShell Script </h1>
+<h3> Search for specified folders and subfolders</h3>
 
 <h2> WHAT IS IT? </h2>
 Search for a specified Folder PowerShell Script.
