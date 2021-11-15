@@ -8,7 +8,10 @@ Search for a specified Folder PowerShell Script.
 A simple PowerShell script to search for a specified folder. The script will request the estimated folder path (must exist) and enter the specified folder name (must exist) to begin searching through entire directories and subdirectories. 
 
 <h2> HOW TO USE IT </h2>
-1) Enter the specified folder path. 
-2) Enter the specified folder name.
-3) The PowerShell script will begin searching for the specfied folder. (searching through entire directories + subdirectories.)
-4) Check the results. 
+Enter the specified folder path. 
+
+Enter the specified folder name.
+
+The PowerShell script will begin searching for the specfied folder. (searching through entire directories + subdirectories.)
+
+Check the results. 
