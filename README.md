@@ -20,6 +20,10 @@ If you are having trouble locating a specific folder, this script can help you f
 
 ![Folder Search](https://i.postimg.cc/PxqgcVwQ/ps2.png)
 
+## Demo
+
+https://youtu.be/RCPuU83597Q
+
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
